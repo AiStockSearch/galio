@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "eslint": "^5.8.0",
-    "eslint-config-universe": "^1.0.7",
+    "eslint-config-universe": "^13.0.0",
     "prettier": "^1.15.1",
     "prop-types": "^15.6.2",
     "react": "16.8.3",
